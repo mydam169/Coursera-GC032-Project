@@ -2,13 +2,13 @@
 
 This codebook describes the variables in the dataset `tidyData.txt`.
 
-## Identifiers
+## Identifying variables
 
-* Activity - The activity performed by the participants in the experiment (6 in total)
-* Subject - The ID of the participant, ranging from 1 to 30
+* `Activity` - The activity performed by the participants in the experiment (6 in total)
+* `Subject` - The ID of the participant, ranging from 1 to 30
 
 
-## Labels for Activity
+## Labels for variable `Activity`
 
 1.	`WALKING`           (value 1) : if the participant was walking 
 2.	`WALKING_UPSTAIRS`  (value 2) : if the participant was walking upstairs
