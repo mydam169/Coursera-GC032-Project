@@ -10,12 +10,12 @@ This codebook describes the variables in the dataset `tidyData.txt`.
 
 ## Labels for Activity
 
-1.	WALKING           (value equal to 1) : if the participant was walking 
-2.	WALKING_UPSTAIRS  (value equal to 2) : if the participant was walking upstairs
-3.	WALKING_DOWNSTAIRS(value equal to 3) : if the participant was walking downstairs 
-4.	SITTING           (value equal to 4) : if the participant was sitting 
-5.	STANDING          (value equal to 5) : if the participant was standing 
-6.	LAYING            (value equal to 6) : if the participant was laying down
+1.	`WALKING`           (value 1) : if the participant was walking 
+2.	`WALKING_UPSTAIRS`  (value 2) : if the participant was walking upstairs
+3.	`WALKING_DOWNSTAIRS`(value 3) : if the participant was walking downstairs 
+4.	`SITTING`           (value 4) : if the participant was sitting 
+5.	`STANDING`          (value 5) : if the participant was standing 
+6.	`LAYING`            (value 6) : if the participant was laying down
 
 
 ## Measurements of interest (79 measurements)
