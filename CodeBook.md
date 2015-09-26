@@ -18,7 +18,7 @@ This codebook describes the variables in the dataset `tidyData.txt`.
 6.	`LAYING`            (value 6) : if the participant was laying down
 
 
-## Measurements of interest (79 measurements)
+## Measurements of interest 
 
 1.	tBodyAcc-mean()-X
 2.	tBodyAcc-mean()-Y
