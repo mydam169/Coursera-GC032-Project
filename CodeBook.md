@@ -8,7 +8,7 @@ This codebook describes the variables in the dataset `tidyData.txt`.
 * `Subject` - The ID of the participant, ranging from 1 to 30
 
 
-## Activity labels (factor variable)
+## Labels for Activity
 
 * `WALKING`  (value equal to 1)         : if the participant was walking 
 * `WALKING_UPSTAIRS` (value equal to 2)  : if the participant was walking upstairs
