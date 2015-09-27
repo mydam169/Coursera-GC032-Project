@@ -19,7 +19,8 @@ This codebook describes the variables in the dataset `tidyData.txt`.
 
 
 ## Measurements of interest 
-*`t` denotes time and `f` indicates frequency domain signals
+
+* `t` denotes time and `f` indicates frequency domain signals
 
 1.	tBodyAcc-mean()-X
 2.	tBodyAcc-mean()-Y
